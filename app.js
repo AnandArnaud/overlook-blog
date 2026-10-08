@@ -1,4 +1,4 @@
-// The Overlook blog — plain JS. No product analytics wired in (that's the task).
+// The Overlook blog — plain JS.
 const POSTS = [
   { slug: "shipping-small", title: "The case for shipping small", date: "Aug 20, 2026", read: "6 min" },
   { slug: "logs-you-read", title: "Write logs you'll actually read", date: "Aug 12, 2026", read: "4 min" },
