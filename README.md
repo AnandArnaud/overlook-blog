@@ -6,7 +6,7 @@ The Overlook is a tiny reading/blog site — open a post, subscribe, get in touc
 
 It is intentionally small. The user-action handlers log to the console.
 
-## User actions worth tracking
+## Key user actions
 
 open post · subscribe · contact
 
